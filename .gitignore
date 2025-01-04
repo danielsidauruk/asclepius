@@ -1,0 +1,24 @@
+### IDE
+.idea
+.vscode
+.env
+
+package-lock.json
+
+### Node
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+### Additional directories
+dist
+
+.DS_Store
+service-account.json
