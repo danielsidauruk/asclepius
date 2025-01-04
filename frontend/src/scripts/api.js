@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'http://0.0.0.0:3000';
+const BASE_URL = 'https://asclepius-724151222373.asia-southeast2.run.app';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,

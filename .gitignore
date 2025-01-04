@@ -22,3 +22,4 @@ dist
 
 .DS_Store
 service-account.json
+src-link.json
